@@ -26,5 +26,5 @@ Make sure to follow the setup tutorial to make sure you setup everything correct
 <img src="wiki/Location.png" width="800">
 <img src="wiki/Setup-tutorial.png" width="800">
 
-# Demo
+# Demo Video
 [![Demo Video](https://img.youtube.com/vi/urArKhTmyOI/0.jpg)](https://www.youtube.com/watch?v=urArKhTmyOI)
