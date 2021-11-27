@@ -12,6 +12,7 @@ https://twitter.com/kevinfor5/status/1462952576840880134
 
 # Installation
 To use this program you must have Pokémon Automation's Microcontroller Programs downloaded, found here: https://github.com/PokemonAutomation/Microcontroller/releases.
+
 Download the BDSP-PokemonCloning files, found here: https://github.com/HetchBug/BDSP-PokemonCloning/releases
 
 Then copy the two folders from this repo into your PA-NativePrograms-X.Y.Z folder and allow it to overwrite the ProgramList.txt file. If you don't do this, then this program will not show up when you try to open the hex generator.
