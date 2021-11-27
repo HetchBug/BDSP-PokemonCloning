@@ -20,4 +20,5 @@ When you open the hex generator, the program will be listed in the "General" tab
 # Setup
 Make sure to follow the setup tutorial to make sure you setup everything correctly before running the program.
 
+<img src="wiki/Location.png" width="800">
 <img src="wiki/Setup-tutorial.png" width="800">
