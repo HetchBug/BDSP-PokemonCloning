@@ -25,7 +25,7 @@ When you open the hex generator, the program will be listed in the "General" tab
 
 # Setup
 Make sure to follow the setup tutorial to make sure you setup everything correctly before running the program.
-The program will clone your desired Pokemon up to 6 times in a run if you choose to do so. It will reset the nursery and box positions after every clone so it can safely clone the next Pokemon without having to be manually reset.
+The program will clone your desired Pokemon up to 6 times in a run if you choose to do so. It will reset the nursery and box positions after every clone so it can safely clone the next Pokemon without having to be manually reset. *This program is not able to do a full box because the hex file's size would end up being to large to flash onto a microcontroller.*
 
 <img src="wiki/Location.png" width="800">
 <img src="wiki/Setup-tutorial.png" width="800">
