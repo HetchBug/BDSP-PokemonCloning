@@ -1,7 +1,7 @@
 # BDSP-PokemonCloning
 An automation program based on "Pokémon Automation - Microcontroller Programs" that clones Pokemon in BDSP.
 
-**THIS NO LONGER WORKS ON BDSP VERSION 1.1.2+**
+#THIS NO LONGER WORKS ON BDSP VERSION 1.1.2+
 This only works on version 1.1.1
 
 This is a custom program that utilizes Pokémon Automation's Microcontroller Programs, found here: https://github.com/PokemonAutomation/Microcontroller
